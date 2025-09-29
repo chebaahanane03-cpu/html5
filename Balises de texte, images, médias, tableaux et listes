@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>page d'accueil</title>
+    <link rel="stylesheet" href="hanane.css">
+</head>
+<body>
+    <h1>bom dia amigas</h1>
+    <p>bem-vinda amigas à minha pagina , Este é o meu primeiro parágrafo em HTML.</p>
+    <ol>
+     <li>hanane</li>
+     <li>fahd</li>
+     <li>wadie</li>
+     <li>blahim</li>
+    </ol>
+    <table >
+        <tr>
+          <th>Nom</th>
+          <th>Âge</th>
+        </tr>
+        <tr>
+          <td>hanane</td>
+          <td>22</td>
+        </tr>
+        <tr>
+          <td>Samira</td>
+          <td>23</td>
+        </tr>
+      </table>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Stitch_%28Lilo_%26_Stitch%29.svg/250px-Stitch_%28Lilo_%26_Stitch%29.svg.png" alt="stitch">
+
+</body>
+</html>
