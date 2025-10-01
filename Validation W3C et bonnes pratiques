@@ -1,2 +1,16 @@
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Stitch_%28Lilo_%26_Stitch%29.svg/250px-Stitch_%28Lilo_%26_Stitch%29.svg.png" alt="Image d’illustration">
+YPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>page d'accueil</title>
+    <link rel="stylesheet" href="hanane.css">
+</head>
+<body>
+    <h1>hanane CHEBAA</h1>
+    <p> ben vinda a minha pagina</p>
+    
+    
+    <img src="https://i.pinimg.com/736x/2b/16/c2/2b16c2525af4b4da726165abbce451d0.jpg" alt="Image d’illustration" width="250px">
     <form action="#" method="post">
+
